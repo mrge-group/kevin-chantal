@@ -1,5 +1,7 @@
 Aaliyah
+Abigail
 Achilles
+Alfhild
 Alizee
 Aloah
 Amon
@@ -8,6 +10,7 @@ Angalie
 Angel
 Anjeli
 Aragorn
+Aschly
 Aurel
 Aurelie
 Billa
@@ -20,6 +23,7 @@ Brooklyn-Joy
 Bulette
 Cady
 Capucine
+Cataleya
 Cedric
 Chane
 Chantal
@@ -34,12 +38,14 @@ Cosma
 Dakota
 Damian
 Dean
+Deivid
 Devin
 Djamil
 Don-Armarni
 Eliisa
 Elinor
 Elvis
+Estella
 Famous
 Fee
 Feivel
@@ -52,10 +58,12 @@ Gene
 Gin
 Gina
 Gino-Pascal
+Grace
 Grobi
 Guilianopascal
 Gwendolyn
 Hardy-Simon
+Gwyn
 Haylee-Miley
 Heavenly
 Hope
@@ -67,6 +75,7 @@ Ilyas
 Jaana
 Jackie
 Janique
+Jannic
 Jason
 Jay
 Jayden
@@ -108,6 +117,7 @@ Kyra
 Lakota
 Lany
 Lavinia
+Lavinja
 Leadel
 Leesha
 Leetice
@@ -130,6 +140,7 @@ Lovis
 Luana
 Luca
 Lumen
+Lusimella
 Luyi
 Lyelle
 Lykka
@@ -140,6 +151,7 @@ Mailo
 Maja
 Malia
 Malou
+Malve
 Manno
 Marcella
 Markee
@@ -162,8 +174,10 @@ Neo-Ryan
 Nevio
 Nigel
 Nimue
+Noreen
 Novele
 Nuel
+Page-Virginia
 Parry
 Peacjo
 Pearl
@@ -171,11 +185,13 @@ Pepsi-Fee
 Peterle
 Petronella
 Philine
+Philomena
 Phoebe
 Pius
 Primus
 Quirin
 Ramiro
+Renesmee
 Rocco
 Ronny
 Rose
@@ -205,6 +221,8 @@ Sohija
 Soraya
 Starlisha
 Stella
+Stellan
+Steven-Lee
 Summer
 Talischa
 Tamaya
@@ -222,12 +240,14 @@ Timur
 Tinette
 Tizian
 Tobey
+Tomotei
 Vanadis
 Venora
 Ventura
 Virginia
 Viveka
 Vivienne
+Volkberta
 Vyvyan
 Winnetou-Karl
 Yorrick
