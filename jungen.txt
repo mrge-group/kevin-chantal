@@ -7,12 +7,15 @@ Aurel
 Billa
 Birk
 Bo-Dylan
+Boromir
 Brandon
 Castiel
 Cedric
 Chane
 Chayton
 Chester
+Chrysant
+Conner
 Conor
 Damian
 Dean
@@ -22,6 +25,7 @@ Dion
 Djamil
 Don-Armarni
 Dustin
+Elrond
 Elvis
 Enrico
 Famous
@@ -33,6 +37,7 @@ Gin
 Gino-Pascal
 Grobi
 Guilianopascal
+Harley-David
 Hardy-Simon
 Horacio
 Horst-Erich
@@ -49,6 +54,7 @@ Jeremy-Pascal
 Jermaine
 Jerome
 Jetaime
+Joaquin
 Joel
 Joram
 Jordyn
@@ -56,8 +62,10 @@ Jorien
 Justin
 Kacey
 Keanu
+Kevindang
 Kilian
 Kilian-Ocean
+Kimmo
 Kimrobin
 Kingsten
 Kjartan
@@ -107,6 +115,7 @@ Silvester
 Sofian
 Stellan
 Steven-Lee
+Stiven
 Tatum
 Tayler
 Ternell
