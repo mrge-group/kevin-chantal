@@ -1,12 +1,15 @@
 Aaliyah
-Abigail
+Alemannia
+Alemman
 Alfhild
 Alizee
 Aloah
 Angalie
 Anjeli
+Apple
 Aschly
 Aurelie
+Blaubeere
 Bluebell
 Bonnie
 Brooklyn-Joy
@@ -14,6 +17,7 @@ Bulette
 Cady
 Capucine
 Cataleya
+Chanel
 Chantal
 Chelsy
 Chenoa
@@ -26,7 +30,9 @@ Delani
 Dalina
 Eliisa
 Elinor
+Emilia-Extra
 Estella
+Fanta
 Fee
 Feleena
 Fidhy
@@ -90,6 +96,7 @@ Maya
 Melody
 Melosine
 Mie
+Milka
 Miyu
 Nahla
 Nen-Rose
@@ -103,6 +110,7 @@ Petronella
 Philine
 Philomena
 Phoebe
+Rapunzel
 Renesmee
 Rose
 Roxane
@@ -112,6 +120,8 @@ Samira
 Saphira
 Savannah
 Schakira-Schantalle
+Schneewitchen
+Schokominza
 Seline
 Shaleen
 Shanaya
@@ -120,8 +130,10 @@ Shila
 Shireen
 Shiva
 Sidney
+Sioux
 Skyla
 Sohija
+Sonne
 Soraya
 Starlisha
 Stella
@@ -140,6 +152,7 @@ Viveka
 Vivienne
 Volkberta
 Vyvyan
+Wasa
 Zazie
 Zhora
 Zoe

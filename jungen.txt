@@ -19,7 +19,9 @@ Conner
 Conor
 Damian
 Dean
+Dee-Jay
 Deivid
+Despot
 Devin
 Dion
 Djamil
@@ -42,6 +44,7 @@ Hardy-Simon
 Horacio
 Horst-Erich
 Horst-Kevin
+Ikea
 Ilyas
 Jannic
 Jason
@@ -59,6 +62,7 @@ Joel
 Joram
 Jordyn
 Jorien
+Junior
 Justin
 Kacey
 Keanu
@@ -86,12 +90,14 @@ Malve
 Manno
 Markee
 Marvin
+Matt-Eagle
 Maurice
 Melvin
 Meo
 Merlin
 Mihael
 Mirnes
+Napoleon
 Neo-Ryan
 Nevio
 Nigel
@@ -99,7 +105,9 @@ Nuel
 Parry
 Peacjo
 Peterle
+Phoenix
 Pius
+Popo
 Primus
 Quirin
 Ramiro
@@ -109,13 +117,19 @@ Ronny
 Ryan
 Sexmus
 Shane
+Sherrif
 Shilo
+Siebenstern
 Siljan
 Silvester
+Smudo
 Sofian
+Solarfried
 Stellan
 Steven-Lee
 Stiven
+Sultan
+Tarzan
 Tatum
 Tayler
 Ternell
@@ -127,5 +141,6 @@ Tizian
 Tobey
 Tomotei
 Vanadis
+Waterloo
 Winnetou-Karl
 Yorrick
