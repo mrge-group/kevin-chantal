@@ -1,4 +1,5 @@
 Achilles
+Aemilian
 Amon
 Anakin
 Angel
@@ -18,6 +19,7 @@ Chrysant
 Conner
 Conor
 Damian
+Danilo
 Dean
 Deivid
 Devin
@@ -37,8 +39,8 @@ Gin
 Gino-Pascal
 Grobi
 Guilianopascal
-Harley-David
 Hardy-Simon
+Harley-David
 Horacio
 Horst-Erich
 Horst-Kevin
@@ -103,6 +105,7 @@ Pius
 Primus
 Quirin
 Ramiro
+Ravin
 Rocco
 Rodriquez
 Ronny
@@ -116,6 +119,7 @@ Sofian
 Stellan
 Steven-Lee
 Stiven
+Taiga
 Tatum
 Tayler
 Ternell
