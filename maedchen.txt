@@ -74,9 +74,9 @@ Isotta
 Ivy-Matilda
 Jaana
 Jackie
+Jacqueliene
 Jael
 Janique
-Jacqueliene
 Jellanie
 Jennifer-Jackie
 Jihye
@@ -130,6 +130,7 @@ Loane
 Loredana
 Loreley
 Lova
+Lovelyn
 Luana
 Lusimella
 Luyi
@@ -146,6 +147,7 @@ Marcella
 Mari
 Mauricette
 Maya
+Mayra
 Medeleene
 Melody
 Melosine
@@ -212,7 +214,7 @@ Talischa
 Talisha
 Tamawahine
 Tamaya
-Tamaya 
+Tamaya
 Tamsyn
 Tanisha
 Tara
@@ -222,10 +224,10 @@ Taynara
 Thyra
 Tiffany
 Tinette
-Valeria 
+Valeria
 Venla-Mia
 Venora
-Venora 
+Venora
 Ventura
 Vera
 Virginia
