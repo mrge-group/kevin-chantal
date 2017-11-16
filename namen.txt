@@ -1,6 +1,5 @@
 Aaliyah
 Abigail
-Abtin
 Achilles
 Adeeleh
 Adelina
@@ -23,12 +22,10 @@ Apollonia
 Apple
 Aragorn
 Arian-Leo-Loris-Ryan-Oscar
-Artemis
 Aschly
 Atreus
 Aurel
 Aurelie
-Bejelle
 Billa
 Birk
 Bluebell
@@ -143,7 +140,6 @@ Grobi
 Guilianopascal
 Gwendolyn
 Gwyn
-Gyula
 Hailey
 Hannah-Marleen
 Hardy-Simon
@@ -203,7 +199,6 @@ John-Pauley
 Johnnie-Walker
 Joleen
 Jolie
-Jolina
 Joram
 Jordane
 Jordyn
@@ -240,13 +235,11 @@ Kunigunde
 Kyra
 Lakota
 Lalita
-Lando
 Lany
 Lareen-Charlize
 Laurinda
 Laverne
 Lavinja
-Layan
 Layla
 Leadel
 Leandro
@@ -260,13 +253,13 @@ Lenia
 Lenia-Philine
 Lennis
 Lennox
-Lenny
 Lenya-Jorien
 Leon
 Leonidas
 Leopoldina
 Leorisi
 Leroy
+Liah-Maylin
 Liam
 Liam-Pascal
 Lian
@@ -286,10 +279,8 @@ Louis-Nino
 Lova
 Lovelyn
 Lovis
-Lovisa
 Luan
 Luana
-Luc-Arno
 Luca
 Lugh
 Luis-Leo
@@ -368,6 +359,7 @@ Peterle
 Petronella
 Philine
 Philomena
+Phineas-Bo
 Phoebe
 Phoenix
 Pius
@@ -376,8 +368,6 @@ Polla
 Primus
 Quintessa
 Quirin
-Ragad
-Rahel
 Ramiro
 Ravin
 Renesmee
@@ -387,7 +377,6 @@ Rodriquez
 Ronny
 Rose
 Roxane
-Rubena
 Rufina
 Ryan
 Samantha
