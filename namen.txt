@@ -63,6 +63,7 @@ Chesney
 Chester
 Cheyenne
 Chiara-Elaine
+Chimamanda
 Chrysant
 Clementine
 Colin
@@ -78,6 +79,7 @@ Dakota
 Dalina
 Damian
 Danilo
+Dante
 Daphne
 Dariyo
 Daviella
@@ -145,6 +147,8 @@ Gwendolyn
 Gwyn
 Gyula
 Hailey
+Halley
+Hana
 Hannah-Marleen
 Hardy-Simon
 Harley-David
@@ -172,6 +176,7 @@ Jaiden
 Jamian
 Janique
 Jannic
+Janto
 Jasko-Jack
 Jason
 Jason-Shawn-Chrysant
@@ -221,6 +226,7 @@ Kacy-Lou
 Kairi
 Kaisa
 Kaitlynn
+Kajetan
 Katie
 Keanu
 Kenneth-Dietmar
@@ -282,7 +288,9 @@ Lonnie
 Loredana
 Loreley
 Lorenti
+Louis-Kapitan
 Louis-Nino
+Lounis
 Lova
 Lovelyn
 Lovis
@@ -291,6 +299,7 @@ Luan
 Luana
 Luc-Arno
 Luca
+Lucka
 Lugh
 Luis-Leo
 Lumen
@@ -463,6 +472,7 @@ Tizian
 Tobey
 Tolo
 Tomotei
+Trandolina
 Tyrin
 Valeria
 Vanadis
