@@ -1,5 +1,4 @@
 Aaliyah
-Abby
 Abigail
 Abtin
 Achilles
@@ -20,8 +19,6 @@ Amy-Summer
 Anakin
 Angalie
 Angel
-Angelique
-Anjeica-Maria
 Anjeli
 Apollonia
 Apple
@@ -48,12 +45,11 @@ Braxton
 Brooklyn-Joy
 Bulette
 Cady
-Caprice-Cyprienne
+Caprice
 Capucine
 Cara
 Castiel
 Cataleya
-Cataleya-Liana
 Cataleya-Serina-Chayeene-Noomie
 Cavin
 Caylee-Inara
@@ -63,18 +59,15 @@ Cha-Cha
 Chane
 Channel
 Chantal
-Chantal-Maria
 Chayenne
 Chayton
 Checilia
 Chelsy
 Chenoa
-Chenoah
 Cheradine
 Chesney
 Chester
 Cheyenne
-Cheyenne-Joline-Elisabeth
 Chiara-Elaine
 Chimamanda
 Chrysant
@@ -89,6 +82,7 @@ Corvin-Mio
 Cosma
 Cosmin-Loan
 Curtis
+Cyprienne
 Dakota
 Dalina
 Damian
@@ -135,6 +129,7 @@ Feleena
 Feline
 Fenja-Mae
 Fhil-Henry
+Fiametta
 Fibienne
 Fidel
 Fidhy
@@ -158,6 +153,7 @@ Glen
 Godlight
 Godsgift
 Goncalo
+Gottfrieda
 Grace
 Grobi
 Guilianopascal
@@ -168,12 +164,14 @@ Hailey
 Halley
 Hana
 Hannah-Marleen
+Hans-Theodor
 Hardy-Simon
 Harley-David
 Haylee-Miley
 Heaven
 Heavenly
 Hiway
+Honk
 Hope
 Horacio
 Horst-Erich
@@ -199,8 +197,8 @@ Jannis-Finley
 Janto
 Jasko-Jack
 Jason
-Jason-Ernst-Karli
 Jason-Shawn-Chrysant
+Jasper-Konrad
 Javier-Noel
 Jay
 Jayden
@@ -242,7 +240,6 @@ Joy
 Joyce
 Julina
 Junia
-Junia-Fiametta-May
 Junia-Sandy-Lea
 Justin
 Kacey
@@ -263,6 +260,7 @@ Kilian-Ocean
 Kimberly
 Kimmo
 Kimrobin
+Kingsley
 Kingsten
 Kirijassa
 Kjartan
@@ -310,6 +308,7 @@ Lilith-Elisa
 Lillyana
 Lina-Antonet
 Linnea-Zoe
+Lion-Tyler
 Loane
 Logan
 Loki-Gry
@@ -395,7 +394,7 @@ Noel-Amanjit
 Noemi-Fee
 Noreen
 Noura
-Novalee
+Nova-Hope
 Novele
 Nuel
 Olivia-Fee
@@ -420,7 +419,7 @@ Pius
 Polixeni
 Polla
 Primus
-Prinz-Lion-Tyler
+Pepper-Ann
 Quintessa
 Quirin
 Ragad
@@ -441,7 +440,6 @@ Samantha
 Samira
 Sammy-Joe
 Saphira
-Saphira-Lolita
 Savannah
 Saymen-Travis
 Schakira-Schantalle
@@ -473,6 +471,7 @@ Skati
 Skumuzo
 Sky-Cooper
 Skyla
+Slupy
 Sly
 Sofian
 Sohija
@@ -485,7 +484,6 @@ Stellan
 Steven-Lee
 Stiven
 Summer
-Sunny-Tiger-Jolie
 Sydney-Danielle
 Tabita
 Taiga
@@ -509,6 +507,7 @@ Thong
 Thyra
 Thyrone
 Tiffany
+Tilda
 Timur
 Tinette
 Tizian
@@ -525,6 +524,7 @@ Venla-Mia
 Venora
 Ventura
 Vera
+Viola-Rebecka
 Violetta
 Virchen
 Virginia
@@ -546,5 +546,4 @@ Zhora
 Zoe
 Zoe-Alessa
 Zoe-Tiana
-Zoey-Eliana
 Zora
