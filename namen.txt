@@ -1,4 +1,5 @@
 Aaliyah
+Abby
 Abigail
 Abtin
 Achilles
@@ -8,6 +9,7 @@ Adria-Luekchaey
 Adrienne
 Aemilian
 Aiden-Kiss
+Aino-Sky
 Alfhild
 Alizee
 Allegra
@@ -18,6 +20,8 @@ Amy-Summer
 Anakin
 Angalie
 Angel
+Angelique
+Anjeica-Maria
 Anjeli
 Apollonia
 Apple
@@ -25,10 +29,12 @@ Aragorn
 Arian-Leo-Loris-Ryan-Oscar
 Artemis
 Aschly
+Asti
 Atreus
 Aurel
 Aurelie
 Bejelle
+Bellaphina
 Billa
 Birk
 Bluebell
@@ -42,9 +48,12 @@ Braxton
 Brooklyn-Joy
 Bulette
 Cady
+Caprice-Cyprienne
 Capucine
+Cara
 Castiel
 Cataleya
+Cataleya-Liana
 Cataleya-Serina-Chayeene-Noomie
 Cavin
 Caylee-Inara
@@ -54,14 +63,18 @@ Cha-Cha
 Chane
 Channel
 Chantal
+Chantal-Maria
 Chayenne
 Chayton
+Checilia
 Chelsy
 Chenoa
+Chenoah
 Cheradine
 Chesney
 Chester
 Cheyenne
+Cheyenne-Joline-Elisabeth
 Chiara-Elaine
 Chimamanda
 Chrysant
@@ -83,8 +96,10 @@ Danilo
 Dante
 Daphne
 Dariyo
+David-Josia
 Daviella
 Dayven-Levis
+Dayven-Lewis
 DeShawn
 Dean
 Deivid
@@ -96,6 +111,7 @@ Devin
 Dion
 Divine
 Djamil
+Dodi
 Don-Armarni
 Douglas-Jimmy-Junior
 Dustin
@@ -107,9 +123,11 @@ Ellaisa
 Elrond
 Elvin
 Elvis
+Emeley-Margarete
 Emilee-Scarlett
 Emilia-Constanze-Mosella
 Enrico
+Espen-Nils
 Estella
 Famous
 Fee
@@ -165,6 +183,7 @@ Hyan
 Iduna
 Ilayda
 Ilyas
+Inja
 Inola
 Isotta
 Ivy-Matilda
@@ -177,9 +196,11 @@ Jaiden
 Jamian
 Janique
 Jannic
+Jannis-Finley
 Janto
 Jasko-Jack
 Jason
+Jason-Ernst-Karli
 Jason-Shawn-Chrysant
 Javier-Noel
 Jay
@@ -197,6 +218,7 @@ Jeremy-Pascal
 Jermaine
 Jerome
 Jeronimo
+Jerrik-Phileas
 Jetaime
 Jihye
 Jillian
@@ -214,12 +236,14 @@ Joram
 Jordane
 Jordyn
 Jorien
+Joshua-Finjan
 Josia
 Joulie
 Joy
 Joyce
 Julina
 Junia
+Junia-Fiametta-May
 Junia-Sandy-Lea
 Justin
 Kacey
@@ -229,6 +253,7 @@ Kaisa
 Kaitlynn
 Kajetan
 Katie
+Kayle-Luquas
 Keanu
 Kenneth-Dietmar
 Kenny-Scott
@@ -243,6 +268,7 @@ Kingsten
 Kirijassa
 Kjartan
 Krys-Sky
+Kulabako
 Kunigunde
 Kyra
 Lakota
@@ -263,6 +289,7 @@ Leigh
 Leilani
 Leilanie
 Lenara
+Leni-Minea
 Lenia
 Lenia-Philine
 Lennis
@@ -274,6 +301,7 @@ Leonidas
 Leopoldina
 Leorisi
 Leroy
+Leticia-Mana
 Liam
 Liam-Pascal
 Lian
@@ -285,6 +313,7 @@ Lina-Antonet
 Linnea-Zoe
 Loane
 Logan
+Loki-Gry
 Lonnie
 Loredana
 Loreley
@@ -314,8 +343,10 @@ Lykka
 Lynn
 Madda
 Maddox
+Madeleine-Zoe
 Mailo
 Maja
+Maja-Samia
 Maja-Zora
 Malia
 Malou
@@ -334,9 +365,11 @@ Mauricette
 Maya
 Mayra
 Medeleene
+Melina-Chanel
 Melody
 Melosine
 Melvin
+Melvin-Jermaine
 Meo
 Merlin
 Mie
@@ -353,13 +386,17 @@ Neo
 Neo-Ryan
 Nevio
 Neytiri
+Nicky-Celina
 Nico-Horst
+Nico-Manfred
 Nigel
 Nimue
 Noah-Keanu
 Noel-Amanjit
+Noemi-Fee
 Noreen
 Noura
+Novalee
 Novele
 Nuel
 Olivia-Fee
@@ -384,6 +421,7 @@ Pius
 Polixeni
 Polla
 Primus
+Prinz-Lion-Tyler
 Quintessa
 Quirin
 Ragad
@@ -404,6 +442,7 @@ Samantha
 Samira
 Sammy-Joe
 Saphira
+Saphira-Lolita
 Savannah
 Saymen-Travis
 Schakira-Schantalle
@@ -415,6 +454,7 @@ Shajenne
 Shaleen
 Shanaya
 Shane
+Shanina-Josephine
 Shanna-Lillian-Melody-Sunshine
 Shenola
 Sheyla-Danielle
@@ -425,6 +465,7 @@ Shirin
 Shiva
 Shy-Ann
 Sidney
+Silas-Nathanael
 Siljan
 Silvester
 Simea
@@ -438,12 +479,14 @@ Sofian
 Sohija
 Sophia-Loreen
 Soraya
+Stacy-Caryna
 Starlisha
 Stella
 Stellan
 Steven-Lee
 Stiven
 Summer
+Sunny-Tiger-Jolie
 Sydney-Danielle
 Tabita
 Taiga
@@ -483,6 +526,8 @@ Venla-Mia
 Venora
 Ventura
 Vera
+Violetta
+Virchen
 Virginia
 Vitalina
 Viveka
@@ -502,4 +547,5 @@ Zhora
 Zoe
 Zoe-Alessa
 Zoe-Tiana
+Zoey-Eliana
 Zora
