@@ -70,6 +70,7 @@ Billa
 Birk
 Bluebell
 Bo-Dylan
+Bonita
 Bonnie
 Booker-Jay
 Boromir
@@ -686,6 +687,7 @@ Quintessa
 Quirin
 Ragad
 Rahel
+Rambo
 Ramiro
 Raphael-Raoul
 Ravin
@@ -766,6 +768,7 @@ Sina-Alenica
 Skady
 Skati
 Skumuzo
+Sky
 Sky-Cooper
 Sky-Line-Luna-Shane
 Sky-Rocco
@@ -845,6 +848,7 @@ Tyler-Colin
 Tyrin
 Udinia
 Unmut
+Ueffes
 Vael
 Vael-Noemi-Ophira
 Valentino-Joel
@@ -887,6 +891,7 @@ Yannis-Sydney
 Yggradsil
 Yggradsil-Axel
 Yorrick
+Yves
 Zafirah
 Zakai
 Zantia
